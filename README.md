@@ -21,7 +21,7 @@ Trying to constantly improve my skills and work on disruptive products.
 </a><a href="https://facebook.com/amjadalwareh">
   <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
+<br/>
 
-
-![Amjad's GitHub stats](https://github-readme-stats.vercel.app/api?username=amjad-alwareh&show_icons=true&theme=dark)  
+![Amjad's GitHub stats](https://github-readme-stats.vercel.app/api?username=amjad-alwareh&show_icons=true&theme=dark)<br/>
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amjad-alwareh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
