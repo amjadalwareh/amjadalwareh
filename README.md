@@ -5,7 +5,7 @@ with over 6 years of experience in (Android, Java, Kotlin, Testing).
 Ambitious mobile developer, self-reliance, team player, fast learning,
 Trying to constantly improve my skills and work on disruptive products.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amjad-alwareh)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amjad-alwareh&show_icons=true&theme=dark)
 
 
 <!--
