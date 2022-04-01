@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @amjadalwareh
+- 👀 I’m interested in Kotlin
+- 🌱 I’m currently learning Flutter
