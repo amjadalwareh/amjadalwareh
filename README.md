@@ -1,4 +1,4 @@
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/amjad-alwareh) 
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/amjadalwareh) 
 ### Hi I'm Amjad Alwareh 👋
 
 Certificated Bachelor's Degree in Information Technology
@@ -25,5 +25,5 @@ Trying to constantly improve my skills and work on disruptive products.
 <br/>
 <br/>
 
-![Amjad's GitHub stats](https://github-readme-stats.vercel.app/api?username=amjad-alwareh&show_icons=true&theme=dark)<br/>
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amjad-alwareh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Amjad's GitHub stats](https://github-readme-stats.vercel.app/api?username=amjadalwareh&show_icons=true&theme=dark)<br/>
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amjadalwareh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
