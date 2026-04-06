@@ -27,3 +27,5 @@ Trying to constantly improve my skills and work on disruptive products.
 
 ![Amjad's GitHub stats](https://github-readme-stats.vercel.app/api?username=amjadalwareh&show_icons=true&theme=dark)<br/>
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amjadalwareh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Amjad's GitHub stats](https://github-readme-stats.vercel.app/api?username=amjadalwareh)](https://github.com/anuraghazra/github-readme-stats)
