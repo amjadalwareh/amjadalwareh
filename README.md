@@ -1,9 +1,9 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/amjadalwareh) 
-### Hi I'm Amjad Alwareh 👋
+### Hi, I'm Amjad Alwareh 👋
 
 Certificated Bachelor's Degree in Information Technology
-with over 6 years of experience in (Android ,Kotlin Java, Testing).  
-Ambitious mobile developer, self-reliance, team player, fast learning,
+with over 6 years of experience in (Android, Kotlin, Java, Testing).  
+Ambitious mobile developer, self-reliant, team player, fast learner,
 Trying to constantly improve my skills and work on disruptive products.
 
 - 🔭 I’m currently working on **SafeBoda**
@@ -27,5 +27,3 @@ Trying to constantly improve my skills and work on disruptive products.
 
 ![Amjad's GitHub stats](https://github-readme-stats.vercel.app/api?username=amjadalwareh&show_icons=true&theme=dark)<br/>
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amjadalwareh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Amjad's GitHub stats](https://github-readme-stats.vercel.app/api?username=amjadalwareh)](https://github.com/anuraghazra/github-readme-stats)
